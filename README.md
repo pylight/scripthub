@@ -2,8 +2,8 @@ pylight/scripthub
 ==================
 
 * Author:    Sven K. (<admin@ganz-sicher.net>)
-* Description: This repo contains some scripts I wrote. :)
-
+* Description: This repo contains a collection of small scripts I wrote. :)
+ 
 
 Stable scripts for productive use 
 ---------------------------------
@@ -15,4 +15,4 @@ You can put this into your /etc/cron... directory. It uses notify-send to send a
 
 Errors or Problems?
 -------------------
-Don't hesitate to ask asap! :p
+Don't hesitate to ask! :p
